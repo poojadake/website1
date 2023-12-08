@@ -1,0 +1,24 @@
+.bg-3 {
+      background-color: #00BFFF;
+      color: #000000;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 14px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #FFCC0033 !important;
+  }
+
+  .active>a {
+    color: #FF0022 !important;;
+  }
